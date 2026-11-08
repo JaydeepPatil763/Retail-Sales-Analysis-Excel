@@ -1,4 +1,4 @@
-# Retail-Sales-Analysis
+# Retail-Sales-Analysis | Excel
 Interactive Retail Sales Dashboard using Microsoft Excel
 Retail Sales Analysis Dashboard | Microsoft Excel
 
